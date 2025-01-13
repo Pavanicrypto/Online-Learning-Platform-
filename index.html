@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Online Learning Platform</h1>
+        <nav>
+            <a href="#lessons">Lessons</a>
+            <a href="#quizzes">Quizzes</a>
+            <a href="#progress">Progress</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="lessons">
+            <h2>Video Lessons</h2>
+            <video controls>
+                <source src="path/to/video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+
+        <section id="quizzes">
+            <h2>Quizzes</h2>
+            <form id="quizForm">
+                <label for="question">What is 2 + 2?</label>
+                <input type="text" id="question" required>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+
+        <section id="progress">
+            <h2>Your Progress</h2>
+            <div id="progressData"></div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
