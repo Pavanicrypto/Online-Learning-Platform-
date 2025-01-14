@@ -64,3 +64,7 @@ Incorporating features such as text-to-speech, subtitles for videos, and screen 
 **Conclusion:**
 
 Developing an online learning platform that supports video lessons, quizzes, and progress tracking requires careful consideration of media streaming, user authentication, and data storage. By focusing on these aspects and ensuring a user-friendly interface, the platform can provide an engaging and effective learning experience for students. With the right tools and technologies in place, this platform can empower learners to achieve their educational goals in a dynamic and interactive environment.
+
+**output of the task:**
+
+![image](https://github.com/user-attachments/assets/e1604414-bc83-449f-9416-36ca8a2af670)
