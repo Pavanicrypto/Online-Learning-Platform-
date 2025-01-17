@@ -1,4 +1,19 @@
 # Online-Learning-Platform-
+
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Mamidi Pavani
+
+**INTERN ID:** CT08JEJ
+
+**DOMAIN:** Full Stack Web Development
+
+**BATCH DURATION:** January 5th,2025 to February 5th,2025
+
+**MENTOR NAME:** Neela Santhosh Kumar
+
+**DESCRIPTION:**
+
 **Introduction:**
 
 In the age of digital education, creating an online learning platform that effectively integrates video lessons, quizzes, and progress tracking is essential. This platform should focus on three critical areas: media streaming, user authentication, and data storage. A user-friendly interface will enhance the learning experience, making it appealing to students of all ages.
